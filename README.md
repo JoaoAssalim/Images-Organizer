@@ -1,2 +1,13 @@
 # Images Organizer
-This program read a determinated directory and move images to determinated foldes, to clean your folder.
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+This program can be used to separate and move images to a determinated folder in a determinated directory.
+
+## Extensions suported
+
+This program support only 4 extensions: .png, .jpeg, .jpg, .gif
+
+
+   [git-repo-url]: <https://github.com/JoaoAssalim/Bill_Bot.git>
+   [Python]: <https://www.python.org/>
