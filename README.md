@@ -6,7 +6,7 @@ This program can be used to separate and move images to a determinated folder in
 
 ## Extensions suported
 
-This program support only 4 extensions: .png, .jpeg, .jpg, .gif
+This program support only 4 extensions: .png, .jpeg, .jpg and .gif
 
 
    [git-repo-url]: <https://github.com/JoaoAssalim/Bill_Bot.git>
